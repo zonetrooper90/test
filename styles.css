@@ -34,7 +34,8 @@
   border-radius: 30px;
   padding: 80px 56px;
   margin-bottom: 80px;
-  background-color: #121212
+  /* background-color: #121212 */
+  background-color: #000000
 }
 
 .layout.is-small-screen .content {
