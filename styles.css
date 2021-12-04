@@ -17,7 +17,7 @@
 .body {
   font-family: 'Open Sans';
   font-size: 13px;
-  background-color: #121212;
+  background-color: #303F9F; /* material indego 700 */
 }
 
 .header .mdl-layout__header-row {
@@ -34,7 +34,7 @@
   border-radius: 30px;
   padding: 80px 56px;
   margin-bottom: 80px;
-  background-color: #121212;
+  background-color: #0D47A1; /* material blue 900 */
 }
 
 .layout.is-small-screen .content {
@@ -61,11 +61,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  vertical-align: middle;
 }
 
 .material-icons.mdl-list__item-avatar {
   background-color: inherit;
-  color: indigo;
+  color: #00B0FF;
 }
 
 .list-two{
@@ -77,3 +78,11 @@
   vertical-align: middle;
 
 }
+
+.mdl-list__item-secondary-content {
+  vertical-align: middle;
+}
+
+/* .material-icons {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+} */
