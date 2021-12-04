@@ -75,4 +75,6 @@
 
 .mdl-list__item-sub-title {
   padding: inherit;
+  vertical-align: middle;
+
 }
