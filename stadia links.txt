@@ -1,0 +1,4 @@
+Assassin's Creed: Odyssey	https://stadia.google.com/player/8b7e7f7036e5483eaa8745d46248536crcp1
+Borderlands 3			https://stadia.google.com/player/be080ad40b434ca289166031d3e88623rcp1
+
+Find link på stadia.com i butik det er den "kode" der står mellem /details/ og /sku/
