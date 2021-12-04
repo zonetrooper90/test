@@ -79,6 +79,7 @@
 
 }
 
-.mdl-list__item-secondary-content {
+.mdl-list__item-secondary-action {
   vertical-align: middle;
+  color: #2979FF;
 }
