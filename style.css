@@ -1,0 +1,29 @@
+.default {
+  background-attachment: fixed;
+  background-image: linear-gradient(
+    to top,
+    #051937,
+    #4a275a,
+    #962a61,
+    #d2414a,
+    #eb7912
+  );
+  cursor: default;
+  -webkit-user-select: none;
+  user-select: none;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  color: white;
+  text-shadow: 0.025em 0.025em 0 #2a3439; /* Gunmetal */
+}
+
+p {
+  color: azure;
+  text-shadow: 0.025em 0.025em 0 #313c45; /* Volkswagen Copenhagen Blue */
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
