@@ -16,14 +16,27 @@
 
 h1 {
   color: white;
-  text-shadow: 0.025em 0.025em 0 #2a3439; /* Gunmetal */
+  text-shadow: 0.075em 0.075em 0 #2a3439; /* Gunmetal */
 }
 
 p {
   color: azure;
-  text-shadow: 0.025em 0.025em 0 #313c45; /* Volkswagen Copenhagen Blue */
+  text-shadow: 0.075em 0.075em 0 #313c45; /* Volkswagen Copenhagen Blue */
 }
 
 ::-webkit-scrollbar {
   display: none;
+}
+
+table {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+th {
+  color: blueviolet;
+  text-shadow: 0.075em 0.075em 0 violet;
+  text-align: left;
 }
