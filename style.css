@@ -30,13 +30,18 @@ p {
 
 table {
   margin: auto;
-  width: 50%;
+  width: auto;
+  min-width: 70%;
   border: 3px solid green;
   padding: 10px;
 }
 
 th {
-  color: blueviolet;
+  color: #abc123;
   text-shadow: 0.075em 0.075em 0 violet;
   text-align: left;
+}
+
+table tr:nth-child(odd) td {
+  background-color: #d6eeee;
 }
