@@ -2,11 +2,15 @@
   background-attachment: fixed;
   background-image: linear-gradient(
     to top,
-    #051937,
+    /* #051937,
     #4a275a,
     #962a61,
     #d2414a,
-    #eb7912
+    #eb7912, */ #051937,
+    #4a275a,
+    #962a61,
+    #4a275a,
+    #051937
   );
   cursor: default;
   -webkit-user-select: none;
@@ -42,6 +46,13 @@ th {
   text-align: left;
 }
 
+td {
+  color: #313c45;
+  text-shadow: 0.075em 0.075em 0 whitesmoke;
+  text-align: left;
+}
+
 table tr:nth-child(odd) td {
   background-color: #d6eeee;
+  opacity: 0.5;
 }
