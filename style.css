@@ -1,16 +1,19 @@
 .default {
   background-attachment: fixed;
   background-image: linear-gradient(
-    to top,
-    /* #051937,
-    #4a275a,
-    #962a61,
-    #d2414a,
-    #eb7912, */ #051937,
-    #4a275a,
-    #962a61,
-    #4a275a,
-    #051937
+    to right bottom,
+    #303f9f,
+    #2b41a0,
+    #2642a0,
+    #2044a1,
+    #1945a1,
+    #134eaa,
+    #0a58b2,
+    #0061ba,
+    #0074cc,
+    #0088de,
+    #009cef,
+    #00b0ff
   );
   cursor: default;
   -webkit-user-select: none;
